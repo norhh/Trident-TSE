@@ -1,0 +1,8 @@
+
+        [
+                {
+                    "directory": "/home/Trident/",
+                    "command": "gcc /home/Trident/eval/codeflaws_test/676-A-bug-18247191-18247237/676-A-18247191.c -I /llvm-3.8.1/lib/clang/3.8.1/include/",
+                    "file": "/home/Trident/eval/codeflaws_test/676-A-bug-18247191-18247237/676-A-18247191.c"
+                },
+        ]
