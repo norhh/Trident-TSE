@@ -1,0 +1,4 @@
+26c26
+<             b=count;
+---
+>             __trident_choice("26", (int*[]){&count, &b, &c, &d, &e}, 0, (char*[]){"count", "b", "c", "d", "e"}, 0, 5, 0,(int*[]){&count, &b, &c, &d, &e}, 0, (char*[]){"count", "b", "c", "d", "e"}, 0, 5, 0 );
